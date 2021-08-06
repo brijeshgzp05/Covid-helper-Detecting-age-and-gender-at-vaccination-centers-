@@ -13,3 +13,11 @@ Steps include:
 2. Model building.
 3. Assembling all the three models together.
 4. Write information on given image.
+
+
+How it can help in covid19:
+There is a lot of crowd at vaccination centeres. It is not easy to identify and filter people who need the vaccine at priority. For example females and senior citizens need vaccine first. So this model can easily detect them.
+
+Improvements:
+1. Although this model performs quite well but there is alwways a chance of improvements. We need better dataset.
+2. Transfer learning from pretrained models like VGG16 or resnet can be used.
