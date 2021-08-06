@@ -1,6 +1,9 @@
 This repository contains two files. 
+
 The first file contains Age and gender models build independently.
+
 The second file shows the structure of pipeline where we pass an image and it will detect age and gender along with person location.
+
 Highlights:
 1. OpenCV was used for various image related processing.
 2. For face detection we used MTCNN model.
